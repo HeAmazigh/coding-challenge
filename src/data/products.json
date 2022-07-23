@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Whole french bread",
+    "description": "made in paris and destinated to the whole word",
+    "price": 1.00,
+    "descount": 0.5,
+    "img": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/exps3861_FB143426B05_07_3b.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fresh suiss milk",
+    "description": "semi skimmed milk that  comes strainght from the alpes farmers",
+    "price": 1.15,
+    "descount": 0,
+    "img": "https://us.123rf.com/450wm/donot6/donot61612/donot6161200107/67420085-milk-on-blue-white-milk-fresh-milk-rural-milk-a-bottle-of-rustic.jpg?ver=6"
+  },
+  {
+    "id": 3,
+    "name": "Butter",
+    "description": "produced by us to insure a high quality butter",
+    "price": 0.80,
+    "descount": 0,
+    "img": "https://media.istockphoto.com/photos/butter-isolated-on-white-picture-id177834117?k=20&m=177834117&s=612x612&w=0&h=wfr7NkDKZoyr9MnKkkc9NSweF8Yu-lytLA1Nf0kzbbI="
+  }
+]
